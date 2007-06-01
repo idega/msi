@@ -1,0 +1,13 @@
+<document>
+  <properties>
+    <title>MSI Changes</title>
+    <author email="palli@idega.com">Pall Helgason</author>
+  </properties>
+  <body>
+	<release version="3.1.1" date="2007-05-29">
+		<action dev="palli" type="update">
+			New application.
+		</action>     
+	</release>
+  </body>
+</document>

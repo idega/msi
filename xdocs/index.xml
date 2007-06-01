@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<document>
+
+  <properties>
+    <author email="palli@idega.com">Pall Helgason</author>
+    <title>Welcome to idegaWeb</title>
+  </properties>
+
+  <body>
+
+    <section name="idegaWeb MSI">
+      <p>
+        This is the base web-application for the MSI application.<br/>
+      </p>
+    </section>
+
+
+  </body>
+</document>

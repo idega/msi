@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.cvs.core.cvsnature">
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.article,com.idega.block.article"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.base,com.idega.block.base"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.entity,com.idega.block.entity"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.form,com.idega.block.form"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.formadmin,com.idega.block.formadmin"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.image,com.idega.block.image"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.login,com.idega.block.login"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.media,com.idega.block.media"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.navigation,com.idega.block.navigation"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.process,com.idega.block.process"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.process.webservice,com.idega.block.process.webservice"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.rss,com.idega.block.rss"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.block.web2.0,com.idega.block.web2.0"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.builder,com.idega.builder"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.content,com.idega.content"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.core,com.idega.core"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.developer,com.idega.developer"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.documentmanager,com.idega.documentmanager"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.dwr,com.idega.dwr"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.faces,com.idega.faces"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.formbuilder,com.idega.formbuilder"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.graphics,com.idega.graphics"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.hibernate,com.idega.hibernate"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.idegaweb.widget,com.idega.idegaweb.widget"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.manager,com.idega.manager"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.multidomain,com.idega.multidomain"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.setup,com.idega.setup"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.slide,com.idega.slide"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.user,com.idega.user"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.webface,com.idega.webface"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.workspace,com.idega.workspace"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.xfire,com.idega.xfire"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.webapp.platform/eplatform,eplatform"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/org.apache.axis,org.apache.axis"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/org.apache.myfaces,org.apache.myfaces"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/org.apache.slide,org.apache.slide"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/org.chiba.web,org.chiba.web"/>
+<project reference="1.0,:ext:code.idega.com:/idega/cvs,com.idega.block.platform/com.idega.springframework,org.springframework"/>
+</provider>
+</psf>
