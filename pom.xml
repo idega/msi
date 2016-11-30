@@ -231,15 +231,6 @@
     <dependency>
       <groupId>com.idega.block.private</groupId>
       <artifactId>com.idega.sport.union</artifactId>
-      <version>5.0.0-SNAPSHOT</version>
-      <exclusions>
-          <exclusion>
-              <artifactId>
-                  is.idega.idegaweb.golf.block.image
-              </artifactId>
-              <groupId>com.idega.block.private</groupId>
-          </exclusion>
-      </exclusions>
     </dependency>
 
   </dependencies>
